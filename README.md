@@ -18,6 +18,6 @@ Activate developer mode
 
 Load extension from _Load unpacked_:
 
-![Load unpacked extension](https://github.com/palampinen/github-center-tabs/blob/master/load-extension.png?raw=true)
+![Load unpacked extension](https://github.com/palampinen/github-center-tabs/blob/master/load-unpacked-extension.png?raw=true)
 
 Choose `extension` folder from cloned repository
