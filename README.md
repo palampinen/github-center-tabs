@@ -14,7 +14,7 @@ Open Chrome Extensions:
 
 Activate developer mode
 
-![Activate developer mode](https://github.com/palampinen/github-center-tabs/blob/master/acticate-developer-mode.png?raw=true)
+![Activate developer mode](https://github.com/palampinen/github-center-tabs/blob/master/activate-developer-mode.png?raw=true)
 
 Load extension from _Load unpacked_:
 
