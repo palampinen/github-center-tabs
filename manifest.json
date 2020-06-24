@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Github-Center-Tabs",
+  "version": "0.1.0",
+  "description": "Center tabs of github.com in large screens",
+  "icons": {
+    "128": "icon128.png"
+  },
+
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "matches": ["https://github.com/*"]
+    }
+  ]
+}
