@@ -6,7 +6,10 @@ Install Chrome extension to add style.
 
 `git clone https://github.com/palampinen/github-center-tabs`
 
-Open [Chrome Extensions](chrome://extensions)
+Open Chrome Extensions:
 
-Load extension:
+`chrome://extensions`
+
+Load extension from _Load unpacked_:
+
 ![how to load extension](https://github.com/palampinen/github-center-tabs/blob/master/load-extension.png?raw=true)
